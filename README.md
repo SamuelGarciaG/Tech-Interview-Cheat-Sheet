@@ -1,6 +1,6 @@
 # Data Structures and Algorithms Cheat Sheet 
 
-El objetivo de este documento es condensar los aspectos más importantes de algoritmos y estructuras de datos, fundamentales para afrontar las entrevistas técnicas de desarrollador software.
+El objetivo de este documento es condensar los aspectos más importantes de algoritmos y estructuras de datos, fundamentales para afrontar las entrevistas técnicas de desarrollador software. Este repositorio es un fork de un repositorio originalmente en Inglés, del que he modificado algunas cosas y añadido otras, dando una visión más completa sobre estos temas con consejos muy útiles.
 
 # Índice
 - [Estructuras de Datos](#estructuras)
