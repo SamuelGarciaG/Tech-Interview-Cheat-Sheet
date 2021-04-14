@@ -1,2 +1,8 @@
 .DS_Store
 node_modules/
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
